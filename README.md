@@ -5,6 +5,8 @@
 - 📫 How to reach me ahmedkm_2003@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Printers i built: Voron 2.4 350, Voron 0.2
+- Printers I mod: Trodon 2.0 pro: changed the MCU to Octopus Pro 1.0.1, NH SB toolhead PCPB, G2 Extruder, ClickyClack door, added Nevermore filter V6, added BTT SFS2
 
 <!---
 akm25-v24/akm25-v24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
